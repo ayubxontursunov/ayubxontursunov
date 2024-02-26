@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" alt="Alt Text">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Alt Text">
 </p>
 
 - 🔭 I’m currently working on **Python Development**
