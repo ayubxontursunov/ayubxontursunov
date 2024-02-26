@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayyubkhon Tursunov</h1>
 <h3 align="center">Back-end Developer from Uzbekistan</h3>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif" alt="Alt Text">
+</p>
+
 - 🔭 I’m currently working on **Python Development**
 
 - 🌱 I’m currently learning **Django, Database engineering**
