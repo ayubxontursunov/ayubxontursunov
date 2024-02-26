@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Alt Text" width="1000" height="auto">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Alt Text" width="700" height="auto">
 </p>
 
 
