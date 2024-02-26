@@ -2,8 +2,9 @@
 <h3 align="center">Back-end Developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif?height=100"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Alt Text" width="300" height="auto">
 </p>
+
 
 - 🔭 I’m currently working on **Python Development**
 
