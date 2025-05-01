@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Python Development**
 
-- 🌱 I’m currently learning **Django, Database engineering**
+- 🌱 I’m currently learning **Data Analysis, Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Python**
 
 - 📫 How to reach me **tursunovayubxon07@gmail.com**
 
-- ⚡ Fun fact **Did you know? The term "bug" in computer science came from a real moth found in a computer in 1947, leading to the phrase "debugging"! 🐛💻**
+- ⚡ Fun fact **Did you know? The first web server ever created by Tim Berners-Lee ran on a NeXT computer, and he had a sticker on it that read: "This machine is a server. DO NOT POWER DOWN!!" 🖥️🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
