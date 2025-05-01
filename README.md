@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **tursunovayubxon07@gmail.com**
 
-- ⚡ Fun fact **Did you know? The first web server ever created by Tim Berners-Lee ran on a NeXT computer, and he had a sticker on it that read: "This machine is a server. DO NOT POWER DOWN!!" 🖥️🌐**
+- ⚡ Fun fact: **Did you know? The first web server ever created by Tim Berners-Lee ran on a NeXT computer, and he had a sticker on it that read:
+  "This machine is a server. DO NOT POWER DOWN!!" 🖥️🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
